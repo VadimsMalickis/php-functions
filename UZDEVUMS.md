@@ -3,8 +3,9 @@
 1. Izveidot funkciju kurai ir trīs parametri(int) $garums, (int) $platums, (string) $type.
    Izveidot loģiku kā atkarībā no $type vērtības, funkcija atgriež taisnstūra perimetru vai laukumu.
 
-2. Pieņemsim mums ir (string) $productList = 'piens, maize, tomati, siers, paprika, piens, burkani, maize'.
-   Izveidojiet funkciju, kura izveidos masīvu no $productList, un izņems dublētos produktus.
+2. Pieņemsim mums ir (string) vērtība `'piens, maize, tomati, siers, paprika, piens, burkani, maize'`.
+   Izveidojiet funkciju, kura izveidos masīvu no tādas (string) vērtibas, un izņems dublētos produktus.
+   Un pašās beigās atgriezis masīvu.
 
 3. Izveidot funkciju kurai ir viens parametrs(array) kurš satur elementus ar (int) vērtībam, masīva elementu skaitam jābūt vairāk par 5, un funkcija atgriež tā masīva      elementu reizinājumu.
 
