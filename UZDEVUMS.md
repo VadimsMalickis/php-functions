@@ -13,9 +13,7 @@
 
 5. Izveidot funkciju kurai ir viens parametrs (bool) un funkcija atgriež "Good!" ja parametrs bija true, un "Bad!"" ja parametrs bija false.
 
-6. Izveidot funkciju kurai ir divi parametri(string) un funkcija atgriež true vai false, atkarībā no tā vai parametri bija vienādi.
+6. Izveidot funkciju kurai ir viens parametrs(array) kurš satur elementus ar (int) vērtībam, masīva elementu skaitam jābūt vairāk par 5, un funkcija atgriež tā masīva elementu summu.
 
-7. Izveidot funkciju kurai ir viens parametrs(array) kurš satur elementus ar (int) vērtībam, masīva elementu skaitam jābūt vairāk par 5, un funkcija atgriež tā masīva elementu summu.
-
-8. Izmantojot php funkciju izmantojot iebuvēto funkciju array_map(), ar kuru ir jāapstrādā masīva elementus. Masīva elementi ir (string) tipa, piemēram domēna vārdi - ss.lv.
+7. Izmantojot php funkciju izmantojot iebuvēto funkciju array_map(), ar kuru ir jāapstrādā masīva elementus. Masīva elementi ir (string) tipa, piemēram domēna vārdi - ss.lv.
    Katram elementam jāpievieno pa priekšu `https://` (string) gabalu.
