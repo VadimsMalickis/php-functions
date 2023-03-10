@@ -9,7 +9,7 @@
 
 3. Izveidot funkciju kurai ir viens parametrs(array) kurš satur elementus ar (int) vērtībam, masīva elementu skaitam jābūt vairāk par 5, un funkcija atgriež tā masīva      elementu reizinājumu.
 
-4. Izveidot funkciju kurai ir divi parametri(string) un funkcija printē atbildi kuram parametram bija lielāks simbolu skaits.
+4. Izveidot funkciju kurai ir divi parametri(string) un funkcija atgriež atbildi kuram parametram bija lielāks simbolu skaits.
 
 5. Izveidot funkciju kurai ir viens parametrs (bool) un funkcija printē uz ekrāna "Good!" ja parametrs bija true, un printē "Bad!"" ja parametrs bija false.
 
